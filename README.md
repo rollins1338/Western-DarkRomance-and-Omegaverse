@@ -5,4 +5,6 @@
 
 # 8848.844
 
+[Dark Romance DB](https://darkromancereads.com/)
+
 [*](https://github.com/rollins1338/Novel-Lists-Utills?tab=readme-ov-file)
