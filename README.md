@@ -3,10 +3,11 @@
 
 ---
 
-# Stories Added >
+# 🖤 Priority List
 
-- [Indebted](https://github.com/rollins1338/INDBT17)
-- [Possessing Violet](https://github.com/rollins1338/possesingV)  **A fucking masterpiece 10/10**
+- [x] [Indebted](https://github.com/rollins1338/INDBT17)
+- [x] [Possessing Violet](https://github.com/rollins1338/possesingV)  **A fucking masterpiece 10/10**
+- [ ] [The Edge of Darkness Trilogy](https://github.com/rollins1338/EDGEODRKNSS)
 
 
 ---
