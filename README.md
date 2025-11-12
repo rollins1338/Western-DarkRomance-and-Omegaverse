@@ -10,7 +10,7 @@
 - [ ] [The Edge of Darkness Trilogy](https://github.com/rollins1338/EDGEODRKNSS)
 - [x] [Under Your Scars (Standalone)](https://github.com/rollins1338/undrurscrs)
 - [ ] [Web of Silence Duet](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/tree/main/Web%20of%20Silence%20(Duet))
-- [x] [The Ritual (Standalone)](https://github.com/rollins1338/Western-DarkRomance-and-Omegaverse/blob/main/Unhinged%20standalone%20stories/The%20Rituals.pdf)
+- [x] [The Ritual (Standalone)](https://github.com/rollins1338/Theritual)
 
 
 ---
