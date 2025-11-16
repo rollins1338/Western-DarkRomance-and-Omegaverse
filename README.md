@@ -24,7 +24,7 @@
 - [MORE Audibooks](https://www.myanonamouse.net/login.php?returnto=%2F)
 
 ---
-[Found audiobooks of](https://github.com/rollins1338/audiobooklist/blob/main/README.md)
+[Found audiobooks of](https://github.com/rollins1338/audiobooklist/tree/main)
 
 ---
 
