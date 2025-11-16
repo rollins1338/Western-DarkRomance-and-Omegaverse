@@ -23,5 +23,10 @@
 - [Audiobooks](https://audiobookbay.lu)
 - [MORE Audibooks](https://www.myanonamouse.net/login.php?returnto=%2F)
 
+---
+[Found audiobooks of](https://github.com/rollins1338/audiobooklist/blob/main/README.md)
+
+---
+
 [*](https://github.com/rollins1338/Novel-Lists-Utills?tab=readme-ov-file)
 [^](https://www.reddit.com/r/DarkRomance/s/MM0xeMbjV9)
