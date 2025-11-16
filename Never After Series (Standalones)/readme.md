@@ -1,5 +1,6 @@
 looking for 2 more books and audiobooks
-- Scarred [Book 2]
-- Wretched [Book 3]
+- Hooked [Book 1] [Audio](https://www.myanonamouse.net/t/793704)
+- Scarred [Book 2] [Audio](https://www.myanonamouse.net/t/875496) [PDF](https://www.myanonamouse.net/t/796812)
+- Wretched [Book 3] [Audio](https://www.myanonamouse.net/t/876436) [PDF](https://www.myanonamouse.net/t/839835)
 ---
-[FOUND THEM HAHAHAH](https://www.myanonamouse.net/tor/browse.php?tor%5BsrchIn%5D%5Btitle%5D=true&tor%5BsrchIn%5D%5Bauthor%5D=true&tor%5BseriesID%5D=64625&tor%5BsearchType%5D=all&tor%5BsearchIn%5D=torrents&tor%5Bcat%5D%5B%5D=0&tor%5BbrowseFlagsHideVsShow%5D=0&tor%5Bunit%5D=1&tor%5BsortType%5D=default&tor%5BstartNumber%5D=0)
+FOUND THEM HAHAHAH
