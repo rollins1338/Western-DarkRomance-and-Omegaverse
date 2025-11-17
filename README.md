@@ -25,7 +25,7 @@
 - [some more..](https://forum.mobilism.org/viewforum.php?f=124) 
 
 ---
-[⬛⬛⬛⬛](https://github.com/rollins1338/audiobooklist/tree/main)
+[██████████](https://github.com/rollins1338/audiobooklist/tree/main)
 
 ---
 
