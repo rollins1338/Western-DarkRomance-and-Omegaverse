@@ -3,7 +3,7 @@
 **Everything's F/M.**
 <br>
 <br>
-_Finally I've collected ALL the available audiobooks of these novels!__
+_Finally I've collected ALL the available audiobooks of these novels!_
 
 ---
 
