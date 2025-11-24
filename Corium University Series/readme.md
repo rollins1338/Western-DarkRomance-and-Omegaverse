@@ -1,4 +1,4 @@
-## Readinh Order
+## Reading Order
 
 - [ ] Corium University Trilogy
      - *King of Corium*
