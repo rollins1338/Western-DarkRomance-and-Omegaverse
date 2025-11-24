@@ -7,7 +7,7 @@
        > **Standalones**
          - *Ruins of Temptation*
          - *Reign of Freedom*
-         - *Corium Ever After* [Read PDF]
+         - *Corium Ever After*
        > **Hate and Chaos Duet**
          - *Touch of Hate*
          - *Touch of Chaos*
