@@ -25,7 +25,7 @@ _Finally I've collected ALL the available audiobooks of these novels [here!](htt
 - [Dark Romance DB](https://darkromancereads.com/)
 - [Audiobooks](https://audiobookbay.lu)
 - [MORE Audibooks](https://www.myanonamouse.net/login.php?returnto=%2F)
-- [some more..](https://forum.mobilism.org/viewforum.php?f=124) [...](https://www.overdrive.com/search)
+- [some more..](https://forum.mobilism.org/viewforum.php?f=124)
 
 ---
 
