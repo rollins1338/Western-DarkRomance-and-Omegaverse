@@ -3,7 +3,7 @@
 **Everything's F/M.**
 <br>
 <br>
-_Finally I've collected ALL the available audiobooks of these novels [here!](https://github.com/rollins1338/audiobooklist/tree/main)_
+_Finally I've collected ALL the available audiobooks of these novels and more [here!](https://github.com/rollins1338/audiobooklist/tree/main)_
 
 ---
 
